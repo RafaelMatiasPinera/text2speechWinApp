@@ -1,0 +1,10 @@
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\bin\Debug\TextToSpeechApp.exe.config
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\bin\Debug\TextToSpeechApp.exe
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\bin\Debug\TextToSpeechApp.pdb
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.csproj.AssemblyReference.cache
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.Form1.resources
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.Properties.Resources.resources
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.csproj.GenerateResource.cache
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.csproj.CoreCompileInputs.cache
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.exe
+C:\Users\rafa-\Desktop\EJERCICIOS PROGRAM2PARCIAL\vectores\TextToSpeechApp\TextToSpeechApp\obj\Debug\TextToSpeechApp.pdb
